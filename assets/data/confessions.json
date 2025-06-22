@@ -1,0 +1,36 @@
+[
+  {
+    "id": "post_009",
+    "type": "date_snap",
+    "author_uid": "user_001",
+    "anon_name": "residentButterfly93",
+    "text": "He actually wore green and brought coffee 😭",
+    "image_url": "assets/images/snap_090.jpg",
+    "blurred": true,
+    "timestamp": "2025-06-19T17:40:00",
+    "reactions": {
+      "heart": 12,
+      "laugh": 4,
+      "blush": 2
+    },
+    "comments": [
+      { "user": "anonFox88", "text": "OMG this is cute!" }
+    ]
+  },
+  {
+    "id": "post_021",
+    "type": "confession",
+    "author_uid": "user_001",
+    "anon_name": "wildRose72",
+    "text": "Saw someone reading poetry near the café... I might be in love.",
+    "image_url": null,
+    "blurred": false,
+    "timestamp": "2025-06-19T12:10:00",
+    "reactions": {
+      "heart": 9,
+      "laugh": 1,
+      "shy": 3
+    },
+    "comments": []
+  }
+]

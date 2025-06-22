@@ -1,0 +1,24 @@
+[
+  {
+    "match_id": "match_101",
+    "user1": "user_001",
+    "user2": "user_003",
+    "status": "quest_pending",
+    "compatibility": 78,
+    "game_played": "game_001",
+    "game_answers": {
+      "user1": ["Coffee", "Beach"],
+      "user2": ["Coffee", "Mountain"]
+    },
+    "quests": [
+      {
+        "quest_id": "quest_001",
+        "quest_number": 1,
+        "accepted_by": ["user_001", "user_003"],
+        "completed": true
+      }
+    ],
+    "side_quests": [],
+    "date_snaps_uploaded": true
+  }
+]

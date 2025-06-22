@@ -1,0 +1,21 @@
+[
+  {
+    "game_id": "game_001",
+    "name": "This or That",
+    "type": "choice",
+    "questions": [
+      { "q": "Coffee or Tea?" },
+      { "q": "Beach or Mountain?" },
+      { "q": "Movies or Books?" }
+    ]
+  },
+  {
+    "game_id": "game_002",
+    "name": "Truth or Dare",
+    "type": "text",
+    "questions": [
+      { "q": "What was your most embarrassing crush moment?" },
+      { "q": "Dare: Send a 😂 emoji to your crush." }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "quest_id": "quest_001",
+    "location": "Library Bench",
+    "description": "Meet at library bench wearing color-coded outfits.",
+    "user1_task": "Wear green and bring a book",
+    "user2_task": "Wear red and bring a coffee"
+  },
+  {
+    "quest_id": "quest_002",
+    "location": "Café Stairs",
+    "description": "Swap drinks at the stairs after class.",
+    "user1_task": "Buy chai and offer it",
+    "user2_task": "Bring water and write a one-liner on the bottle"
+  }
+]
