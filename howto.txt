@@ -1,0 +1,23 @@
+install expo cli
+
+if not installed:
+npm install -g expo-cli
+if already installed:
+npx expo start
+
+
+install expo
+npm install expo
+
+
+to run
+npm run dev
+if it fails use
+npx expo start
+
+in package.json
+"scripts": {
+  "dev": "npx expo start"
+}
+
+so when you type npx expo start, it will run
